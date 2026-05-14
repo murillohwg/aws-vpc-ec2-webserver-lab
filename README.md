@@ -77,7 +77,7 @@ A second public subnet was created in a different Availability Zone to support a
 
 ### Screenshot
 
-![Descrição](images/nome-do-print.png)
+![Descrição](images/1-subnetpublic2-created.png)
 
 ---
 
@@ -95,7 +95,7 @@ A second private subnet was created in a separate Availability Zone.
 
 ### Screenshot
 
-![Descrição](images/nome-do-print.png)
+![Descrição](images/2-subnetprivate2-created.png)
 
 ---
 
@@ -107,7 +107,7 @@ This allows internet-bound traffic to be routed through the Internet Gateway.
 
 ### Screenshot
 
-![Descrição](images/nome-do-print.png)
+![Descrição](images/3-workpublic-public2-association.png)
 
 ---
 
@@ -123,7 +123,7 @@ A Security Group was configured to allow HTTP traffic from the internet.
 
 ### Screenshot
 
-![Descrição](images/nome-do-print.png)
+![Descrição](images/4-securitygroup-created.png)
 
 ---
 
@@ -144,9 +144,9 @@ An EC2 instance running Amazon Linux 2023 was launched inside the public subnet.
 
 ### Screenshots
 
-![Descrição](images/nome-do-print.png)
+![Descrição](images/5-edit-instance.png)
 
-![Descrição](images/nome-do-print.png)
+![Descrição](images/6-edit-instance(2).png)
 
 ---
 
@@ -181,7 +181,7 @@ service httpd start
 
 ### Screenshot
 
-![Descrição](images/nome-do-print.png)
+![Descrição](images/7-edit-instance-userdata.png)
 
 ---
 
@@ -191,7 +191,7 @@ The EC2 instance was successfully launched and reached the running state.
 
 ### Screenshot
 
-![Descrição](images/nome-do-print.png)
+![Descrição](images/8-instance-details.png)
 
 ---
 
@@ -203,7 +203,7 @@ The application displayed AWS branding and EC2 metadata information, confirming 
 
 ### Screenshot
 
-![Descrição](images/nome-do-print.png)
+![Descrição](images/9-server-running.png)
 
 ---
 
