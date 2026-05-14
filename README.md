@@ -264,3 +264,9 @@ Potential future improvements for this environment include:
 This lab provided practical experience with AWS networking and infrastructure deployment.
 
 By combining VPC networking, routing, security groups, and EC2 provisioning, it was possible to deploy a functional web server environment using AWS cloud services.
+
+---
+
+## Related Projects
+
+- [AWS IAM Lab](https://github.com/murillohwg/aws-iam-lab)
