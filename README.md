@@ -1,5 +1,4 @@
 ![AWS](https://img.shields.io/badge/AWS-VPC%20%7C%20EC2-orange)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Linux](https://img.shields.io/badge/Amazon%20Linux-2023-blue)
 ![Security](https://img.shields.io/badge/Security%20Group-Configured-red)
 ![Networking](https://img.shields.io/badge/Networking-Multi--AZ-informational)
