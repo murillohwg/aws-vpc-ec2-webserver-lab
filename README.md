@@ -242,31 +242,3 @@ During this lab, the following cloud and networking concepts were practiced:
 * Deploying EC2 instances securely
 * Automating server provisioning with User Data scripts
 * Troubleshooting AWS networking configurations
-
----
-
-# Future Improvements
-
-Potential future improvements for this environment include:
-
-* Infrastructure as Code using Terraform
-* Load Balancer configuration
-* Auto Scaling Groups
-* CloudWatch monitoring and alerts
-* HTTPS/TLS configuration
-* Security hardening for inbound rules
-* Multi-instance deployment architecture
-
----
-
-# Conclusion
-
-This lab provided practical experience with AWS networking and infrastructure deployment.
-
-By combining VPC networking, routing, security groups, and EC2 provisioning, it was possible to deploy a functional web server environment using AWS cloud services.
-
----
-
-## Related Projects
-
-- [AWS IAM Lab](https://github.com/murillohwg/aws-iam-lab)
